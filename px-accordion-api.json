@@ -43,7 +43,7 @@
           "metadata": {
             "polymer": {}
           },
-          "defaultValue": "{\"more\":\"px-utl:chevron-right\",\"less\":\"px-utl:chevron\",\"action\":\"px-utl:edit\"}"
+          "defaultValue": "{\"more\":\"px-utl:chevron-right\",\"less\":\"px-utl:chevron\",\"action\":\"[\"px-utl:edit\"]\"\"}"
         },
         {
           "name": "disabled",
