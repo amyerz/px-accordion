@@ -1,3 +1,7 @@
+v1.1.3
+==================
+* change icon's action to array in order to display multiple icons
+
 v1.1.2
 ==================
 * Fix demo for IE.
