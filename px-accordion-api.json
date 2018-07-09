@@ -240,7 +240,7 @@
           ]
         },
         {
-          "name": "_onEditIconClick",
+          "name": "_onIconClick",
           "description": "",
           "privacy": "protected",
           "sourceRange": {
